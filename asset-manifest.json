@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KhanjanStore/static/css/main.1438c4c1.chunk.css",
+    "main.js": "/KhanjanStore/static/js/main.f093149b.chunk.js",
+    "main.js.map": "/KhanjanStore/static/js/main.f093149b.chunk.js.map",
+    "runtime-main.js": "/KhanjanStore/static/js/runtime-main.d89fedee.js",
+    "runtime-main.js.map": "/KhanjanStore/static/js/runtime-main.d89fedee.js.map",
+    "static/js/2.da64dcd1.chunk.js": "/KhanjanStore/static/js/2.da64dcd1.chunk.js",
+    "static/js/2.da64dcd1.chunk.js.map": "/KhanjanStore/static/js/2.da64dcd1.chunk.js.map",
+    "index.html": "/KhanjanStore/index.html",
+    "precache-manifest.c7ac6556967b04ae7fd224e2b2851a91.js": "/KhanjanStore/precache-manifest.c7ac6556967b04ae7fd224e2b2851a91.js",
+    "service-worker.js": "/KhanjanStore/service-worker.js",
+    "static/css/main.1438c4c1.chunk.css.map": "/KhanjanStore/static/css/main.1438c4c1.chunk.css.map",
+    "static/js/2.da64dcd1.chunk.js.LICENSE.txt": "/KhanjanStore/static/js/2.da64dcd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d89fedee.js",
+    "static/js/2.da64dcd1.chunk.js",
+    "static/css/main.1438c4c1.chunk.css",
+    "static/js/main.f093149b.chunk.js"
+  ]
+}
